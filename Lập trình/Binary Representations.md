@@ -1,0 +1,1 @@
+The binary represent of a type is a model that describes the possible values for that type. It isn't the same as the in-memory object representation.

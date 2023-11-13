@@ -1,0 +1,36 @@
+- $\alpha \models \beta$ means $\beta$ is a necessary consequence of $\alpha$ $\rightarrow$ $\alpha$ entails $\beta$
+	- This is *logical inference*
+- $KB \vdash _i \alpha$ means $\alpha$ is derived from $KB$ by $i$
+	- Also means $i$ derives $\alpha$ from $KB$
+	- An inference algorithm that derives only entailed sentences is called *sound* or *truth-preserving*
+		- An unsound inference produces essentially makes things up as it goes along
+	- An inference algorithm that can derive any sentences that is entailed $\rightarrow$ it's complete
+## Syntax (of propositional logic)
+- The atomic sentences consist of a single *propositional variable*
+	- Each symbol represents a proposition $\rightarrow$ can be either true or fale
+- Complex sentences are constructed from simpler sentences using parentheses and logical connectives
+	- Five logical connectives
+		- $\lnot$ (not)
+			- $\lnot W_{1, 3}$ is the *negation* of $W_{1, 3}$
+			- A literal is either
+				- an atomic sentence
+				- a negated atomic sentence
+		- $\land$ (and)
+			- A sentence with $\land$ as main connective is conjunction
+				- Ex: $P \land Q$
+			- Its parts are the *conjuncts*
+		- $\lor$ (or)
+			- A sentence with $\lor$ as main connective is disjuntion
+				- Ex: $P \lor Q$
+			- Its parts are the *disjuncts*
+		- $\implies$ (implies)
+			- A sentence such as $P \implies Q$ is called an *implication*
+			- P is *premise* or *antecedent*
+			- Q is *conclusion* or *consequent*
+		- $\iff$ (if and only if)
+			- The sentence with this symbol as main connective is a *biconditional*
+- Operator precedence: $\lnot, \land, \lor, \implies, \impliedby$
+- The above is BNF (Backus-Naur Form) notion
+## Semantics
+- Defines the rules for determining the truth of a sentence with respect to a particular model
+- In propositional logic, a model sets the *truth value* - true or false - for every proposition symbol

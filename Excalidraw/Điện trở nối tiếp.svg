@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="340" height="100">
+	<text x="308" y="60" style="font-family:Arial;font-size:12px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 308, 60)">-</text>
+	<line x1="280" y1="60" x2="297" y2="60" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2"/>
+	<ellipse cx="300" cy="60" rx="3" ry="3" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2"/>
+	<text x="42" y="60" style="font-family:Arial;font-size:12px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 42, 60)">+</text>
+	<line x1="53" y1="60" x2="60" y2="60" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2"/>
+	<ellipse cx="50" cy="60" rx="3" ry="3" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2"/>
+	<line x1="170" y1="60" x2="205" y2="60" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2"/>
+	<line x1="245" y1="60" x2="280" y2="60" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2"/>
+	<rect x="205" y="52" width="40" height="16" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2"/>
+	<text x="225" y="46" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="baseline" transform="rotate(0, 225, 46)">R2</text>
+	<line x1="60" y1="60" x2="95" y2="60" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2"/>
+	<line x1="135" y1="60" x2="170" y2="60" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2"/>
+	<rect x="95" y="52" width="40" height="16" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2"/>
+	<text x="115" y="46" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="baseline" transform="rotate(0, 115, 46)">R1</text>
+</svg>

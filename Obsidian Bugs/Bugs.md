@@ -1,0 +1,2 @@
+[Latex math newline line break \\\\ - Bug reports - Obsidian Forum](https://forum.obsidian.md/t/latex-math-newline-line-break/13321/5)
+This is a bug from upstream (MathJax). Hopefully when it comes out we don't have to use **\displaylines{...}** anymore.
