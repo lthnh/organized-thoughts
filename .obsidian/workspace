@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "1e7effb4c0799534",
+    "type": "split",
+    "children": [
+      {
+        "id": "34456bc0d77df9f3",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ddb9428e2f8dc8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fde5f44e3995850",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16279638d30fc5a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dad4a36ed503e4f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40fa0ad666ea527c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e6ba05c011d02fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "63aaf332ea21b25c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95e56a4f8173f0fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ca3cf2045b2447c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a2649775de67e4e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ab521a50f95f065",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "16279638d30fc5a3",
+  "lastOpenFiles": [
+    "Hệ Cơ.md",
+    "Hệ Xương.md",
+    "IELTS/Writing/Academic Writing Task 1 - Describing diagrams.md",
+    "AVR Programming/Hardware Registers.md",
+    "AVR Programming/Introduction to AVR Programming.md",
+    "Xác suất và Thống kê/Xác suất điều kiện (Conditional Probability).md",
+    "Xác suất và Thống kê/Xác suất.md",
+    "Xác suất và Thống kê/Sự phân phối xác suất (Probability Distributions).md",
+    "Xác suất và Thống kê/Không gian mẫu và biến cố.md",
+    "Xác suất và Thống kê/Hệ đầy đủ biến cố (exhautive).md"
+  ]
+}

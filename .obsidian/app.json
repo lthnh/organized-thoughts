@@ -1,0 +1,21 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "strictLineBreaks": false,
+  "vimMode": true,
+  "defaultViewMode": "preview",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Attachments",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": false
+}
