@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2e6ba05c011d02fd",
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to AI/Propositional Theorem Proving.md",
+                "file": "Introduction to AI/Propositional logic.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to AI/Propositional Theorem Proving.md"
+                "file": "Introduction to AI/Propositional logic.md"
               }
             }
           },
@@ -180,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to AI/Propositional Theorem Proving.md",
+                "file": "Introduction to AI/Propositional logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,10 +215,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1c75140818f63799",
+  "active": "51228d1f055339b0",
   "lastOpenFiles": [
-    "Introduction to AI/Propositional logic.md",
     "Introduction to AI/Propositional Theorem Proving.md",
+    "Introduction to AI/Propositional logic.md",
     "Embedded/ARM/Clock.md",
     "Digital Signal Processing/Discrete Linear Time-invariant System.md",
     "Embedded/ARM",
