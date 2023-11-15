@@ -76,3 +76,19 @@ This says that resolution takes two clauses and produces a new clause containing
 You can resolve *only one* pair of complementary literals at a time.
 
 The resulting clause should contain only one copy of each literal. The removal of multiple copies of literals is called **factoring**.
+
+### Conjunctive normal form
+Every sentence of propositional logic is logically equivalent to a conjunction of clauses.
+$$
+\displaylines{
+CNTSentence \rightarrow Clause_{1} \land \ldots \land Clause_{n} \\ 
+Clause \rightarrow Literal_{1} \lor \ldots \lor Literal_{m} \\
+Fact \rightarrow Symbol \\
+Literal \rightarrow Symbol \mid \neg Symbol \\
+Symbol \rightarrow P \mid Q \mid R \\
+HornClauseForm \rightarrow DefiniteClauseForm \mid GoalClauseForm \\
+DefiniteClauseForm \rightarrow Fact \mid (Symbol_{1} \land \ldots Symbol_{l}) \implies Symbol \\
+GoalClauseForm \rightarrow (Symbol_{1} \land \dots \land Symbol_{l}) \implies False
+}
+$$
+Above is the grammar for conjunctive normal form, Horn clauses, and definite clauses.
