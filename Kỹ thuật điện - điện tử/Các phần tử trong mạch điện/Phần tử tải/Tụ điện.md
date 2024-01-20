@@ -27,10 +27,10 @@ $i$ và $u$ tương tự như điện trở bình thường.
 ## Tụ điện mắc nối tiếp
 ![[Tụ điện nối tiếp.excalidraw|center]]
 $$
-\frac{1}{C} = \frac{1}{C_1} + \frac{1}{C_2}
+\frac{1}{C_{\text{total}}} = \frac{1}{C_1} + \frac{1}{C_{2}} + \frac{1}{C_{3}} + \ldots
 $$
 ## Tụ điện mắc song song
 ![[Tụ điện song song.excalidraw|center]]
 $$
-C = C_1 + C_2
+C = C_{1} + C_{2}+ C_{3} + \ldots
 $$

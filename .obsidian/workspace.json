@@ -49,26 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to AI/Propositional logic.md",
-                "mode": "preview",
+                "file": "Kỹ thuật điện - điện tử/Các phần tử trong mạch điện/Phần tử tải/Tụ điện.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1c75140818f63799",
+            "id": "6b4cb5d084643b64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to AI/Propositional Theorem Proving.md",
+                "file": "Principles of Economics/Ten principles of economics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22e29d54f8118c5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kỹ thuật điện - điện tử/Interesting Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2e6ba05c011d02fd",
@@ -143,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to AI/Propositional logic.md",
+                "file": "Kỹ thuật điện - điện tử/Interesting Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to AI/Propositional logic.md"
+                "file": "Kỹ thuật điện - điện tử/Interesting Notes.md"
               }
             }
           },
@@ -181,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to AI/Propositional logic.md",
+                "file": "Kỹ thuật điện - điện tử/Interesting Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,16 +204,26 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "1574aa0e0edfd5e5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,12 +236,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "51228d1f055339b0",
+  "active": "22e29d54f8118c5c",
   "lastOpenFiles": [
+    "Principles of Economics/Ten principles of economics.md",
+    "Kỹ thuật điện - điện tử/Interesting Notes.md",
+    "Kỹ thuật điện - điện tử/Các phần tử trong mạch điện/Phần tử tải/Tụ điện.md",
+    "Untitled",
+    "Principles of Economics",
+    "Kỹ thuật điện - điện tử/Các phần tử trong mạch điện/Phần tử tải/Phần tử tải.md",
+    "Kỹ thuật điện - điện tử/Các phần tử trong mạch điện/Phần tử tải/Điện cảm.md",
+    "Kỹ thuật điện - điện tử/Decibels.md",
+    "Kỹ thuật điện - điện tử/Tín hiệu hình sine.md",
+    "README.md",
+    "Embedded/ARM/Reset and Clock Control (RCC).md",
+    "Digital Signal Processing/Discrete Linear Time-invariant System.md",
+    "Excalidraw/Drawing 2023-12-04 12.32.13.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-04 12.32.10.excalidraw.md",
     "Introduction to AI/Propositional Theorem Proving.md",
     "Introduction to AI/Propositional logic.md",
     "Embedded/ARM/Clock.md",
-    "Digital Signal Processing/Discrete Linear Time-invariant System.md",
     "Embedded/ARM",
     "Embedded",
     "Digital Signal Processing/Unit impulse.md",
@@ -240,12 +274,6 @@
     "Xử lý ảnh y sinh bằng kỹ thuật số/Tăng cường ảnh (Enhancement).md",
     "Random Notes.md",
     "Xử lý ảnh y sinh bằng kỹ thuật số/Khái niệm cơ bản.md",
-    "Finite Element Method",
-    "Đại số/Đồng nhất thức lượng giác.md",
-    "Embedded/AVR/Hardware Registers.md",
-    "Xử lý ảnh y sinh bằng kỹ thuật số/k.md",
-    "Kỹ thuật điện - điện tử/Các phần tử trong mạch điện/Phần tử nguồn.md",
-    "Kỹ thuật điện - điện tử/Các định luật cơ bản của mạch điện/Định luật Kirchoff 2.md",
-    "Kỹ thuật điện - điện tử/Các định luật cơ bản của mạch điện/Định luật Kirchoff 1.md"
+    "Finite Element Method"
   ]
 }

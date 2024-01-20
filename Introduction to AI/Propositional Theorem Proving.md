@@ -61,7 +61,7 @@ $$
 $$
 where each $l$ is a literal and $l_{i}$ and $m$ are **complementary literals**(i.e., one is the negation of the other).
 
-This can be generalized to the full **resoluiton** rule
+This can be generalized to the full **resolution** rule
 $$
 \begin{prooftree}
 \AXC{$l_{1} \lor \ldots \lor l_{2}$}

@@ -1,0 +1,2 @@
+- Electromechanical *relay* (or relay in general) is an electrically operated mechanical switch. It has an interesting property, that is it provides electrical isolation in circuit. That's why it can drive pretty much any load you put on.
+- When using comparator, circuit noise may affects its output, make it bounce around a bit. To fix this problem we use *hysteresis* or *positive feedback* - we add some of the output back to the input in a way that reinforces the switching.
